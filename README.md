@@ -25,4 +25,4 @@ This model returned a best value of .708.
 This model returned a best value of .745.
 
 
-None of the models performed very well.  The Random Forest and Deep Neural Network were the best models.  This was a difficult dataset to model as there were many features and there similarities in the features among all three categories.
+None of the models performed very well.  The Random Forest and Deep Neural Network were the best models.  This was a difficult dataset to model as there were many features and there were similarities in the features among all three categories.
